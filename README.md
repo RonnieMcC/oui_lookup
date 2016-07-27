@@ -5,5 +5,7 @@ This script will parse either a single MAC address or a file containing MAC addr
 See help function in script for details.
 
 Sources below are for pre-download of oui files
+
 http://linuxnet.ca/ieee/oui/nmap-mac-prefixes
+
 http://standards-oui.ieee.org/oui.txt
